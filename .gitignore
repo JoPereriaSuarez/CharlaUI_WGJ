@@ -1,0 +1,17 @@
+## Unity folders
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Uu]serSettings/
+[Oo]bj/
+
+## IDE folders (Add more if needed)
+.idea/
+.vs/
+.vscode/
+
+## C# Automated files
+*.sln
+*.csproj
+*.log
+*.user
